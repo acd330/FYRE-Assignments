@@ -6,3 +6,4 @@ Program3.py- 9/9, print variable name="Annalise"
 Program4.py- 9/9, flash green LED
 Program5.py- 9/14, alarm system breadboard
 Program6.py- 9/16, moisture sensor (+CSV Files)
+EDA_umbrella.py- 10/7, automated umbrella prototype
